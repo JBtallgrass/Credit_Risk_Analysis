@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+                                        # Credit Risk Analysis
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, this project will employ different techniques to train and evaluate models with unbalanced classes. This project uses imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
@@ -17,4 +17,4 @@ This project consists of three technical analysis deliverables and a written rep
 ### Deliverable 4: Summary on the Credit Risk Analysis 
 In the first project deliverable (1 and 2) machine learning applications undersampled, oversampled and combination of both to determine which model provides the most reliabale data predicting which users might be high risk. The last deliverable presents two models resampling the data using ensemble classifiers to predict high or low risk. 
 
-In Delvierables 1 and 2 the reported accuracy score was not as accurate as the ensemble classifiers. A useful model provides a balance of acurracy and precision lending to the recommendation to apply the ensemble classifiers if given the choice. The Easy Ensemble presents the most balance of the models.
+In Delvierables 1 and 2 the reported accuracy score was not as accurate as the ensemble classifiers. A useful model provides a balance of acurracy and precision lending to the recommendation to apply the ensemble classifiers if given the choice. The easy ensemble presents the most balance of the models.
