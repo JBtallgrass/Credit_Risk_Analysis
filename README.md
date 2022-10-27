@@ -10,7 +10,8 @@ This project consists of three technical analysis deliverables and a written rep
 
 ### Deliverable 1: Resampling Models to Predict Credit Risk
  Within this deleiverable the accuracy score, confusion matrix, and imbalanced classification report will provide analysis of the high risk charateristics of borrowers.
-    
+ 
+ 
 ### Deliverable 2: SMOTEENN Algorithm to Predict Credit Risk
 Within this deleiverable the accuracy score, confusion matrix, and imbalanced classification report will provide analysis of the high risk charateristics of borrowers.
 
