@@ -1,4 +1,4 @@
-                                        # Credit Risk Analysis
+  # **Credit Risk Analysis**
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, this project will employ different techniques to train and evaluate models with unbalanced classes. This project uses imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
